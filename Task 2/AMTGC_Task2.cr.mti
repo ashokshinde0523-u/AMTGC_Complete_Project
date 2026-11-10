@@ -1,0 +1,36 @@
+C:/DocumentsTask2_Parameterized_RTL/traffic_system_top.v {1 {vlog -work work -stats=none C:/DocumentsTask2_Parameterized_RTL/traffic_system_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module traffic_system_top
+
+Top level modules:
+	traffic_system_top
+
+} {} {}} C:/DocumentsTask2_Parameterized_RTL/generic_timer.v {1 {vlog -work work -stats=none C:/DocumentsTask2_Parameterized_RTL/generic_timer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module generic_timer
+
+Top level modules:
+	generic_timer
+
+} {} {}} C:/DocumentsTask2_Parameterized_RTL/junction_controller.v {1 {vlog -work work -stats=none C:/DocumentsTask2_Parameterized_RTL/junction_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module junction_controller
+
+Top level modules:
+	junction_controller
+
+} {} {}} C:/DocumentsTask2_Parameterized_RTL/tb_junction_controller.v {1 {vlog -work work -stats=none C:/DocumentsTask2_Parameterized_RTL/tb_junction_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_junction_controller
+
+Top level modules:
+	tb_junction_controller
+
+} {} {}} C:/DocumentsTask2_Parameterized_RTL/tb_generic_timer.v {1 {vlog -work work -stats=none C:/DocumentsTask2_Parameterized_RTL/tb_generic_timer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_generic_timer
+
+Top level modules:
+	tb_generic_timer
+
+} {} {}}

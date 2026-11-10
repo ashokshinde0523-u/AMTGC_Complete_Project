@@ -1,0 +1,4 @@
+
+# Ignore KiCad history folders
+**/.history/
+.gitignore~

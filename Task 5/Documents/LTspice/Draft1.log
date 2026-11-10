@@ -1,0 +1,17 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Ashok\OneDrive\Documents\LTspice\Draft1.net
+Start Time: Sat Oct  3 22:34:19 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n003 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.115 seconds.
+
+Files loaded:
+C:\Users\Ashok\OneDrive\Documents\LTspice\Draft1.net
+C:\Users\Ashok\AppData\Local\LTspice\lib\cmp\standard.mos
+

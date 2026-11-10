@@ -1,0 +1,187 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Task3_AMTGC
+vamtgc_top
+!s110 1794245491
+!i10b 1
+!s100 PZE>9P]o::Rn8lhLEI:O<0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGokl=c4:4Ro4MT?PegUBV2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/AMTGC_Task4_Adaptive_Timing
+w1793467621
+8amtgc_top.v
+Famtgc_top.v
+!i122 32
+L0 4 106
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1794245491.000000
+!s107 amtgc_top.v|
+!s90 -reportprogress|300|amtgc_top.v|
+!i113 1
+Z4 tCvgOpt 0
+vgeneric_timer
+!s110 1794245461
+!i10b 1
+!s100 A6W;cG9bd5Lj[j:L=?K^o2
+R0
+Il5>L?z7]m1Pj0FHc03JcS0
+R1
+R2
+w1792851535
+8generic_timer.v
+Fgeneric_timer.v
+!i122 29
+L0 4 53
+R3
+r1
+!s85 0
+31
+!s108 1794245460.000000
+!s107 generic_timer.v|
+!s90 -reportprogress|300|generic_timer.v|
+!i113 1
+R4
+vjunction_controller
+!s110 1794245483
+!i10b 1
+!s100 A=nm:?oUc;Lb:DFl@[^>Y3
+R0
+I]<T1S8lY^?ciIbM55C8oG0
+R1
+R2
+w1793467227
+8junction_controller.v
+Fjunction_controller.v
+!i122 31
+L0 4 222
+R3
+r1
+!s85 0
+31
+!s108 1794245483.000000
+!s107 junction_controller.v|
+!s90 -reportprogress|300|junction_controller.v|
+!i113 1
+R4
+vped_arbiter
+!s110 1794245469
+!i10b 1
+!s100 ?D6G_Co^b<>G`k5j@@Fo`3
+R0
+I=WQ=XhB44:cj`Nll7kT_32
+R1
+R2
+w1792851539
+8ped_arbiter.v
+Fped_arbiter.v
+!i122 30
+L0 4 61
+R3
+r1
+!s85 0
+31
+!s108 1794245468.000000
+!s107 ped_arbiter.v|
+!s90 -reportprogress|300|ped_arbiter.v|
+!i113 1
+R4
+vtb_amtgc_system
+!s110 1794062691
+!i10b 1
+!s100 Czf]KUBib;if^V72TANWo2
+R0
+IDZDD5hb78bWLo?65Cb4I`3
+R1
+R2
+w1794061682
+8C:/AMTGC_Task5_Verification/tb_amtgc_system.v
+FC:/AMTGC_Task5_Verification/tb_amtgc_system.v
+!i122 28
+L0 4 254
+R3
+r1
+!s85 0
+31
+!s108 1794062691.000000
+!s107 C:/AMTGC_Task5_Verification/tb_amtgc_system.v|C:/AMTGC_Task5_Verification/amtgc_top.v|C:/AMTGC_Task5_Verification/junction_controller.v|C:/AMTGC_Task5_Verification/ped_arbiter.v|C:/AMTGC_Task5_Verification/generic_timer.v|
+!s90 -reportprogress|300|C:/AMTGC_Task5_Verification/generic_timer.v|C:/AMTGC_Task5_Verification/ped_arbiter.v|C:/AMTGC_Task5_Verification/junction_controller.v|C:/AMTGC_Task5_Verification/amtgc_top.v|C:/AMTGC_Task5_Verification/tb_amtgc_system.v|
+!i113 1
+R4
+vtb_amtgc_top
+!s110 1794245510
+!i10b 1
+!s100 8>f?I]AZF`<K[dX^N40I?0
+R0
+IkZGDHmz=ki[[F;[]6]cWH0
+R1
+R2
+w1793469568
+8tb_amtgc_top.v
+Ftb_amtgc_top.v
+!i122 35
+L0 3 158
+R3
+r1
+!s85 0
+31
+!s108 1794245510.000000
+!s107 tb_amtgc_top.v|
+!s90 -reportprogress|300|tb_amtgc_top.v|
+!i113 1
+R4
+vtb_generic_timer
+!s110 1794245497
+!i10b 1
+!s100 JIdT^E@SMTRIN1[Sn>GQ[1
+R0
+Im1Rg_4ABYjH@86Y1a]G2d1
+R1
+R2
+w1792738515
+8tb_generic_timer.v
+Ftb_generic_timer.v
+!i122 33
+L0 5 87
+R3
+r1
+!s85 0
+31
+!s108 1794245496.000000
+!s107 tb_generic_timer.v|
+!s90 -reportprogress|300|tb_generic_timer.v|
+!i113 1
+R4
+vtb_junction_controller
+!s110 1794245503
+!i10b 1
+!s100 =JBMc];:gMl>hjn;UzA;H3
+R0
+IDf1d<A6SgP_Io>;D^V:?E2
+R1
+R2
+w1793468532
+8tb_junction_controller.v
+Ftb_junction_controller.v
+!i122 34
+L0 4 67
+R3
+r1
+!s85 0
+31
+!s108 1794245503.000000
+!s107 tb_junction_controller.v|
+!s90 -reportprogress|300|tb_junction_controller.v|
+!i113 1
+R4

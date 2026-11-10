@@ -1,0 +1,13 @@
+C:\Documents\DocumentsTask2_Parameterized_RTL
+# invalid command name "C:DocumentsDocumentsTask2_Parameterized_RTL"
+C:\Documents\DocumentsTask2_Parameterized_RTL
+# invalid command name "C:DocumentsDocumentsTask2_Parameterized_RTL"
+cd C:/Documents/DocumentsTask2_Parameterized_RTL
+pwd
+# C:/AMTGC_Task4_Adaptive_Timing
+cd C:/Documents/DocumentsTask2_Parameterized_RTL
+pwd
+# C:/AMTGC_Task4_Adaptive_Timing
+cd {C:/Documents/DocumentsTask2_Parameterized_RTL}
+pwd
+# C:/AMTGC_Task4_Adaptive_Timing
